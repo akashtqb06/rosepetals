@@ -13,7 +13,7 @@ export default function Footer() {
           className="w-48 sm:mx-auto"
         />
         <p className="leading-relaxed mt-2 text-[15px] text-gray-400">
-          RosePetals Education and Research is dedicated to unlocking the
+          Rosepetals Education and Research is dedicated to unlocking the
           inherent talents of our local community, igniting a path of growth and
           impact. Together, we're shaping a future where empowerment paves the
           way for collective success.{" "}
